@@ -17,7 +17,7 @@ Error generating stack: `+e.message+`
   @media(min-width:640px){.kb-wrap{padding:20px 32px}}
   .kb-tabs{display:flex;gap:2px;overflow-x:auto;-webkit-overflow-scrolling:touch;padding-bottom:1px}
   .kb-tabs::-webkit-scrollbar{height:3px}
-  .kb-tabs::-webkit-scrollbar-thumb{background:${T.al2};border-radius:2px}
+  .kb-tabs::-webkit-scrollbar-thumb{background:${T.accent};border-radius:2px}
   .btn-accent{background:${T.accent};color:#040D1A;border:none;border-radius:9px;font-weight:600;cursor:pointer;transition:background 0.15s;}
   .btn-accent:hover{background:${T.accentH};}
   .btn-ghost{background:transparent;border:0.5px solid ${T.accent};color:${T.accent};border-radius:9px;font-weight:500;cursor:pointer;transition:background 0.15s,color 0.15s,border-color 0.15s;}
