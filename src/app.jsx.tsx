@@ -103,7 +103,7 @@ const getCSS = ()=>`
   @media(min-width:640px){.kb-wrap{padding:20px 32px}}
   .kb-tabs{display:flex;gap:2px;overflow-x:auto;-webkit-overflow-scrolling:touch;padding-bottom:1px}
   .kb-tabs::-webkit-scrollbar{height:3px}
-  .kb-tabs::-webkit-scrollbar-thumb{background:${D.al2};border-radius:2px}
+  .kb-tabs::-webkit-scrollbar-thumb{background:${D.accent};border-radius:2px}
   .btn-accent{background:${D.accent};color:#040D1A;border:none;border-radius:9px;font-weight:600;cursor:pointer;transition:background 0.15s;}
   .btn-accent:hover{background:${D.accentH};}
   .btn-ghost{background:transparent;border:0.5px solid ${D.accent};color:${D.accent};border-radius:9px;font-weight:500;cursor:pointer;transition:background 0.15s,color 0.15s,border-color 0.15s;}
